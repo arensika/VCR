@@ -1,0 +1,21 @@
+{
+    "manifest": {
+        "author": "arensika",
+        "version": "1.0.0",
+        "name": "TERMINALPOSTING",
+        "updater": "https:\/\/raw.githubusercontent.com\/arensika\/vcr\/main\/terminalposting.json"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/726927773402267779\/1182810670568312852\/image.png?ex=65860d47&is=65739847&hm=d24050edeea072bb0c75c977f857efa816cd12e56bd06d7de858be829ae115b2&=&format=webp&quality=lossless&width=532&height=572"
+    },
+    "fonts": {https:\/\/github.com\/\/arensika\/\/VCR\/\/blame\/\/0f2e042e0b3d579f434189c884e1ce4808891a73\/\/VCR_OSD_MONO_1.001.ttf},
+    "simple_colors": {
+        "background": 1610612736,
+        "background_secondary": 0,
+        "active_channel": -1719619841,
+        "mention_highlight": 36351
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
